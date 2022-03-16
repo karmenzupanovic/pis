@@ -6,5 +6,9 @@ namespace ConsoleApp3
 {
     class Class1
     {
+        public int value()
+        {
+            return 2;
+        }
     }
 }
